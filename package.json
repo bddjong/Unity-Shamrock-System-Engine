@@ -1,0 +1,17 @@
+{
+  "name": "com.blueharpgames.shamrock",
+  "version": "1.2.3",
+  "displayName": "Shamrock Library",
+  "description": "Shamrock Library",
+  "unity": "2019.1",
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Blue Harp Games",
+    "email": "bryan@blueharpgames.com",
+    "url": "https://www.blueharpgames.com"
+  }
+}
