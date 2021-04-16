@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Shamrock.Core
+namespace BlueHarpGames.Shamrock.Core
 {
     [DefaultExecutionOrder(-1)]
     public abstract class Singleton<T> where T : class, new()

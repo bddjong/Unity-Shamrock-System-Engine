@@ -1,4 +1,4 @@
-namespace Shamrock.Systems
+namespace BlueHarpGames.Shamrock.Systems
 {
     public interface ISystem
     {

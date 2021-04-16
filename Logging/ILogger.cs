@@ -1,4 +1,4 @@
-namespace Shamrock.Logging
+namespace BlueHarpGames.Shamrock.Logging
 {
     public interface ILogger
     {

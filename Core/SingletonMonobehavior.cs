@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Shamrock.Core
+namespace BlueHarpGames.Shamrock.Core
 {
     [DefaultExecutionOrder(-1)]
     public abstract class SingletonMonoBehaviour<T> : MonoBehaviour where T : Component

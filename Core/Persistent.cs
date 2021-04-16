@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Shamrock.Core
+namespace BlueHarpGames.Shamrock.Core
 {
     public class Persistent : MonoBehaviour
     {

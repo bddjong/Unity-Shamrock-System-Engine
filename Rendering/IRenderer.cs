@@ -1,4 +1,4 @@
-namespace Shamrock.Rendering
+namespace BlueHarpGames.Shamrock.Rendering
 {
     public interface IRenderer
     {

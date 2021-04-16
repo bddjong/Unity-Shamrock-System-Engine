@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace Shamrock.Rendering
+namespace BlueHarpGames.Shamrock.Rendering
 {
     /// <summary>
     /// Isolated InstancedRenderBatch struct that internally handles creating batches of 1023 matrices

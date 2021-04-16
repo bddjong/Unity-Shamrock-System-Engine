@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Shamrock.SerializableTypes
+namespace BlueHarpGames.Shamrock.SerializableTypes
 {
     [Serializable]
     public struct MinMaxFloat

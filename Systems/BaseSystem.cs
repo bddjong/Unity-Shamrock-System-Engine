@@ -1,6 +1,6 @@
-using Shamrock.Logging;
+using BlueHarpGames.Shamrock.Logging;
 
-namespace Shamrock.Systems
+namespace BlueHarpGames.Shamrock.Systems
 {
     public abstract class BaseSystem : ISystem
     {

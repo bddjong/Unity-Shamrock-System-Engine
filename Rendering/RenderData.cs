@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Shamrock.Rendering
+namespace BlueHarpGames.Shamrock.Rendering
 {
     [Serializable]
     public struct RenderData

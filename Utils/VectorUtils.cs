@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Shamrock.Utils
+namespace BlueHarpGames.Shamrock.Utils
 {
     public static class VectorUtils
     {

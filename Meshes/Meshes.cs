@@ -1,7 +1,6 @@
-using Microsoft.Win32.SafeHandles;
 using UnityEngine;
 
-namespace Shamrock.Meshes
+namespace BlueHarpGames.Shamrock.Meshes
 {
     public static class MeshCreator
     {

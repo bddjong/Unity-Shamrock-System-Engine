@@ -1,4 +1,4 @@
-﻿namespace Shamrock.Core
+﻿namespace BlueHarpGames.Shamrock.Core
 {
     public enum RoundingMode
     {

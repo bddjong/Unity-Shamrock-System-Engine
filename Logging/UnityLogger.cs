@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Shamrock.Logging
+namespace BlueHarpGames.Shamrock.Logging
 {
     public class UnityLogger : ILogger
     {

@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using Shamrock.Core;
-using Shamrock.Logging;
+using BlueHarpGames.Shamrock.Core;
+using BlueHarpGames.Shamrock.Logging;
 using Sirenix.Utilities;
 
-namespace Shamrock.Rendering
+namespace BlueHarpGames.Shamrock.Rendering
 {
     public class RenderManager : Singleton<RenderManager>
     {

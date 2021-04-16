@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Shamrock.Logging;
+using BlueHarpGames.Shamrock.Logging;
 using UnityEngine;
 
-namespace Shamrock.Systems
+namespace BlueHarpGames.Shamrock.Systems
 {
     public class SystemManager
     {

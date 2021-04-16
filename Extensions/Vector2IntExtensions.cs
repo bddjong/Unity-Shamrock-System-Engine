@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Shamrock.Extensions
+namespace BlueHarpGames.Shamrock.Extensions
 {
     public static class Vector2IntExtensions
     {

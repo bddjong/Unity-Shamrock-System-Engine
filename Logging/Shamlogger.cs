@@ -1,6 +1,6 @@
-using Shamrock.Core;
+using BlueHarpGames.Shamrock.Core;
 
-namespace Shamrock.Logging
+namespace BlueHarpGames.Shamrock.Logging
 {
     public class Shamlogger : Singleton<Shamlogger>, ILogger
     {

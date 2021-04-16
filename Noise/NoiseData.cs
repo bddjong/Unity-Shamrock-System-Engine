@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Shamrock.Noise
+namespace BlueHarpGames.Shamrock.Noise
 {
     [Serializable]
     public struct NoiseData

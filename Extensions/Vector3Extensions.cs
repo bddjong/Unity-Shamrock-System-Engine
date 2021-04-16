@@ -1,7 +1,7 @@
-﻿using Shamrock.Core;
+﻿using BlueHarpGames.Shamrock.Core;
 using UnityEngine;
 
-namespace Shamrock.Extensions
+namespace BlueHarpGames.Shamrock.Extensions
 {
     public static class Vector3Extensions
     {

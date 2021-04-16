@@ -1,8 +1,8 @@
-﻿using Shamrock.Systems;
+﻿using BlueHarpGames.Shamrock.Systems;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Shamrock.Core
+namespace BlueHarpGames.Shamrock.Core
 {
     [DefaultExecutionOrder(-1)]
     public abstract class SerializedSingletonMonoBehaviour<T> : SerializedMonoBehaviour where T : Component

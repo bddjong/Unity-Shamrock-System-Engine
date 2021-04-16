@@ -1,8 +1,7 @@
-using System;
 using UnityEngine;
 using Random = System.Random;
 
-namespace Shamrock.Noise
+namespace BlueHarpGames.Shamrock.Noise
 {
     public static class Noise
     {

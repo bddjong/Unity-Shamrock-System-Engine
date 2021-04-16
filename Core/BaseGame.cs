@@ -1,11 +1,10 @@
-using System;
-using Shamrock.Logging;
-using Shamrock.Rendering;
-using Shamrock.Systems;
+using BlueHarpGames.Shamrock.Logging;
+using BlueHarpGames.Shamrock.Rendering;
+using BlueHarpGames.Shamrock.Systems;
 using UnityEngine;
-using ILogger = Shamrock.Logging.ILogger;
+using ILogger = BlueHarpGames.Shamrock.Logging.ILogger;
 
-namespace Shamrock.Core
+namespace BlueHarpGames.Shamrock.Core
 {
     /// <summary>
     /// BaseGame class serves as the root of the game. Extend this object with a game implementation.
